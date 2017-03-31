@@ -11,4 +11,4 @@ DOxygen documentation for project can be found [here][1].
 ### Gameplay demonstration 2
 ![screenshot2](Screenshots/gameplay_demonstration_2.gif)
 
-[1]: Doxygen_documentation/index.html
+[1]: https://douglasyao.github.io/Space-invaders/Doxygen_documentation/index.html
