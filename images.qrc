@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>IMAGES/instructions3.5.png</file>
+        <file>IMAGES/instructions3.png</file>
+        <file>IMAGES/instructions4.png</file>
+        <file>IMAGES/instructions2.png</file>
+        <file>IMAGES/instructions1.png</file>
+        <file>IMAGES/boss_health.png</file>
+        <file>IMAGES/lives_remaining.png</file>
+        <file>IMAGES/game_over.png</file>
+        <file>IMAGES/congratulations.png</file>
+        <file>IMAGES/select_difficulty.png</file>
+        <file>IMAGES/welcome.png</file>
+        <file>IMAGES/invader.png</file>
+        <file>IMAGES/enemy_bullet_left.png</file>
+        <file>IMAGES/enemy_bullet_right.png</file>
+        <file>IMAGES/enemy_bullet.png</file>
+        <file>IMAGES/boss.png</file>
+        <file>IMAGES/win_message.png</file>
+        <file>IMAGES/boss_message.png</file>
+        <file>IMAGES/player_bullet.png</file>
+        <file>IMAGES/spaceship.png</file>
+        <file>IMAGES/explosion1.png</file>
+        <file>IMAGES/explosion2.png</file>
+        <file>IMAGES/explosion3.png</file>
+        <file>IMAGES/explosion4.png</file>
+        <file>IMAGES/explosion5.png</file>
+        <file>IMAGES/explosion6.png</file>
+        <file>IMAGES/explosion7.png</file>
+        <file>IMAGES/explosion8.png</file>
+        <file>IMAGES/explosion9.png</file>
+        <file>IMAGES/explosion10.png</file>
+        <file>IMAGES/explosion11.png</file>
+        <file>IMAGES/explosion12.png</file>
+        <file>IMAGES/explosion13.png</file>
+        <file>IMAGES/explosion14.png</file>
+    </qresource>
+</RCC>
